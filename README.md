@@ -4,7 +4,6 @@
 I'm a passionate Front-end developer and here you can find my projects.
 
 - 🔭 I’m @melanierolo
-- 🌱 I’m currently learning about algorithms and data structures.
 - 🤔 I’m interested in
   - React
   - Sass
