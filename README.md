@@ -5,6 +5,7 @@ I'm a passionate Front-end developer and here you can find my projects.
 
 - 🔭 I’m @melanierolo
 - 🤔 I’m interested in
+  - JavaScript
   - React
   - Sass
   - Figma
