@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### A bit About Me 🚀
-I'm a passionate Front-end developer and here you can find my projects.
+I'm a passionate developer with a background in Telecommunications Engineering from the Universidad Nacional de Ingeniería (UNI) in Lima, Peru. Over the course of my career, I have delved into a wide array of possibilities, leading to a profound fascination with programming, particularly in the MERN (MongoDB, Express, React, and Node.js) environment. This passion has been further solidified through an intensive program at the Laboratoria Bootcamp, where I honed my Front-End development skills and tackled real projects within the SCRUM framework.
 
 - 🔭 I’m @melanierolo
 - 🤔 I’m interested in
